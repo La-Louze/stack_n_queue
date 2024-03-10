@@ -38,7 +38,7 @@
 |-------------------|---------------|---------------|------------------|------------------|
 |1.000|![](./README_images/stArr.png)|![](./README_images/stList.png)|![](./README_images/queArr.png)|![](./README_images/queList.png)|
 |10.000|![](./README_images/stArr10.png)|![](./README_images/stList10.png)|![](./README_images/queArr10.png)
-|![](./README_images/queList10.png)|
+|![](./README_images/queLIst10.png)|
 
 ### Вывод:
 
