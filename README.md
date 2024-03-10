@@ -6,8 +6,7 @@
 
 ## Графическое представление решения задачи
 
-<img src="/home/lalouze/Downloads/hop.png">
-![](/home/lalouze/Downloads/hop.png)
+![](./README_images/hop.png)
 
 ![](/home/lalouze/Downloads/hops.png)
 
