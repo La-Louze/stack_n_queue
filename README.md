@@ -1,14 +1,14 @@
 # Алгоритмы тренировка
 
 ## Задача: реализовать очередь и стек на массивах и на списках  
-![стек](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdzen.ru%2Fa%2FZJPY52vIIggBB708&psig=AOvVaw3jrduJ4WrTb8sptAFBHv9v&ust=1710147858678000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIj7uK-r6YQDFQAAAAAdAAAAABAE)  
-![очередь]()  
+![стек](./README_images/stack.png)  
+![очередь](./README_images/queue.png)  
 
 ## Графическое представление решения задачи
 
 ![](./README_images/hop.png)
 
-![](/home/lalouze/Downloads/hops.png)
+![](./README_images/hops.png)
 
 ## Пограничные случаи
 
